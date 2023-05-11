@@ -1,2 +1,4 @@
-# Estruturas de Dados: Trabalhos Práticos
-Trabalhos práticos para a disciplina [DCC205 - Estruturas de Dados]
+# Trabalhos Práticos
+DCC205 - Estruturas de Dados | Universidade Federal de Minas Gerais | 2022/01
+
+Bernardo Reis de Almeida
